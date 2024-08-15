@@ -1,4 +1,4 @@
-public class Triangle {
+public class Triangle implements Shape {
     private double base;
     private double height;
 
